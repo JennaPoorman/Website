@@ -1,13 +1,21 @@
 /*Website Styles*/
 * {
-  font-size 100%;
+  font-size: 110%;
 }
 body {
   background-color:#ebbb23 ;
   color: SaddleBrown;
   font-family:'Open Sans Condensed', sans serif;
+  font-size: 14px;
 }
 
 h1 {
   color: SaddleBrown;
+  font-size: 36px;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 18px;
 }
