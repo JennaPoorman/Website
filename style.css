@@ -1,3 +1,7 @@
+/*Website Styles*/
+* {
+  font-size 100%;
+}
 body {
   background-color:#ebbb23 ;
   color: SaddleBrown;
