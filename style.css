@@ -1,3 +1,9 @@
 body {
-  background-color: orange;
+  background-color:#ebbb23 ;
+  color: SaddleBrown;
+  font-family:"'Open Sans Condensed'";
+}
+
+h1 {
+  color: SaddleBrown;
 }
