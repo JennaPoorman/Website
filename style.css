@@ -12,17 +12,28 @@ body {
 
 h1 {
   color: SaddleBrown;
-  font-size: 40px;
-  font-weight: 750;
-  h2 {
-    font-size: 28px;
-    font-weight: 750;
+  font-size: 50px;
+  font-weight: 850;
+  font-style: italic;
+  text-align: center;
 }
 h2 {
-  font-size: 32px;
-  font-weight: 650;
+  font-size: 34px;
+  font-weight: 750;
+  line-height: 2;
 }
 h3 {
-  font-size: 22px;
+  font-size: 34px;
   font-weight: 750;
+  line-height: 3;
+}
+h4 {
+  font-size: 34px;
+  font-weight: 750;
+  line-height: 3;
+}
+h2 {
+  font-size: 34px;
+  font-weight: 750;
+  line-height: 3;
 }
