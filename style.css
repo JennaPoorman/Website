@@ -6,16 +6,23 @@ body {
   background-color:#ebbb23 ;
   color: SaddleBrown;
   font-family:'Open Sans Condensed', sans serif;
-  font-size: 14px;
+  font size: 14px;
+  font-weight: 750;
 }
 
 h1 {
   color: SaddleBrown;
-  font-size: 36px;
+  font-size: 40px;
+  font-weight: 750;
+  h2 {
+    font-size: 28px;
+    font-weight: 750;
 }
 h2 {
-  font-size: 24px;
+  font-size: 32px;
+  font-weight: 650;
 }
 h3 {
-  font-size: 18px;
+  font-size: 22px;
+  font-weight: 750;
 }
