@@ -9,14 +9,19 @@
   /* border: 50px Maroon; */
 }
 body {
-  background-color: #ebbb23;
+  background-image: url(Website/Images/background.jpg);
+  /* background-color: #ebbb23; */
   color: Maroon;
   font-family:'Open Sans Condensed', sans serif;
   font size: 14px;
   font-weight: 750;
   margin: 50px;
 }
-
+/* .title {
+  font-size: 70px;
+  color: maroon;
+  text-decoration: underline;
+} */
 h1 {
   color: Maroon;
   font-size: 65px;
@@ -100,4 +105,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
+.title {
+  font-size: 48px;
+  text-decoration: underline;
+}
 }
