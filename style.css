@@ -9,8 +9,8 @@
   /* border: 50px Maroon; */
 }
 body {
-  background-image: url(Website/Images/background.jpg);
-  /* background-color: #ebbb23; */
+  background-image: url("../Images/pexels-andrew-wilus-5516748 (1).jpg" );
+  background-color: #ebbb23;
   color: Maroon;
   font-family:'Open Sans Condensed', sans serif;
   font size: 14px;
