@@ -1,5 +1,5 @@
-/*Website Styles*/
-* {
+  /*Website Styles*/
+  * {
   font-size: 110%;
   margin:0;
   line-height: 2;
@@ -7,8 +7,8 @@
   color: Maroon;
   font-family:'Open Sans Condensed', sans serif;
   border: 50px Maroon;
-}
-body {
+  }
+  body {
   /* background-image: url(../Image/pexels-andrew-wilus-5516748 (1).jpg); */
   background-color: #ebbb23;
   color: Maroon;
@@ -16,13 +16,13 @@ body {
   font size: 14px;
   font-weight: 750;
   margin: 50px;
-}
-.title {
+  }
+  .title {
   font-size: 70px;
   color: maroon;
   text-decoration: underline;
-}
-h1 {
+  }
+  h1 {
   color: Maroon;
   font-size: 65px;
   font-weight: 850;
@@ -32,88 +32,87 @@ h1 {
   padding: 25px;
   border: 5px solid maroon;
   background-color: khaki
-}
-/* .banner {
+  }
+  /* .banner {
   height: 350px;
   background-image: url(Images/banner.jpg);
-} */
-p {
+  } */
+  p {
   margin: 15px 0;
   padding: 30px;
-}
-header h1 {
-text-align: center;
-padding: 30px;
-}
-h2 {
+  }
+  header h1 {
+  text-align: center;
+  padding: 30px;
+  }
+  h2 {
   font-size: 34px;
   font-weight: 750;
   font-style: italic;
   line-height: 3;
   text-align: left;
   margin-bottom: 20px;
-  padding:30px;
-}
-p {
+  padding:25px;
+  }
+  p {
   margin: 15px 0;
-  padding: 30px;
-}
-ul{
+  padding: 25px;
+  }
+  ul{
   margin: 15px 0;
-}
-header h2 {
+  }
+  header h2 {
   text-align: left;
-}
-h3 {
+  }
+  h3 {
   font-size: 34px;
   font-weight: 750;
   line-height: 3;
   margin-bottom: 20px;
-  padding: 30px;
-}
+  padding: 25px;
+  }
 
-img {
+  img {
   width:  250px;
   height: 250px;
-}
-p {
+  }
+  p {
   margin: 15px 0;
-  padding: 30px;
-}
-header h3 {
+  padding: 25px;
+  }
+  header h3 {
   text-align: left;
-}
-h4 {
+  }
+  h4 {
   font-size: 34px;
   font-weight: 750;
   line-height: 3;
-  padding: 30px;
-}
-img{
-width:  300px;
-height: 400px;
-}
-p {
+  padding: 25px;
+  }
+  img{
+  width:  300px;
+  height: 400px;
+  }
+  p {
   margin: 15px 0;
-}
-h2 {
+  }
+  h2 {
   font-size: 30px;
   font-weight: 750;
   text-align: left;
   line-height: 3;
-  padding: 30px;
-}
-ul{
+  padding: 25px;
+  }
+  ul{
   margin: 15px 0;
-}
-a {
+  }
+  a {
   color: khaki;
   text-decoration: none;
-}
-a:hover {
+  }
+  a:hover {
   text-decoration: underline;
-.title {
+  .title {
   font-size: 48px;
   text-decoration: underline;
-}
-}
+  }
