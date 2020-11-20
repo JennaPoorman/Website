@@ -1,15 +1,15 @@
 /*Website Styles*/
 * {
   font-size: 110%;
+  margin:0;
   line-height: 2;
   background-color: #ebbb23;
   color: Maroon;
   font-family:'Open Sans Condensed', sans serif;
-  }
-  /* border: 50px Maroon; */
+  border: 50px Maroon;
 }
 body {
-  background-image: url("../Images/pexels-andrew-wilus-5516748 (1).jpg" );
+  /* background-image: url(../Image/pexels-andrew-wilus-5516748 (1).jpg); */
   background-color: #ebbb23;
   color: Maroon;
   font-family:'Open Sans Condensed', sans serif;
@@ -17,11 +17,11 @@ body {
   font-weight: 750;
   margin: 50px;
 }
-/* .title {
+.title {
   font-size: 70px;
   color: maroon;
   text-decoration: underline;
-} */
+}
 h1 {
   color: Maroon;
   font-size: 65px;
@@ -29,28 +29,34 @@ h1 {
   font-style: italic;
   text-align: left;
   margin-bottom: 20px;
-  padding: 30px;
+  padding: 25px;
   border: 5px solid maroon;
   background-color: khaki
 }
+/* .banner {
+  height: 350px;
+  background-image: url(Images/banner.jpg);
+} */
 p {
   margin: 15px 0;
   padding: 30px;
 }
 header h1 {
 text-align: center;
+padding: 30px;
 }
 h2 {
   font-size: 34px;
   font-weight: 750;
+  font-style: italic;
   line-height: 3;
   text-align: left;
   margin-bottom: 20px;
-  padding:20px;
+  padding:30px;
 }
 p {
   margin: 15px 0;
-  padding: 20px;
+  padding: 30px;
 }
 ul{
   margin: 15px 0;
@@ -63,12 +69,12 @@ h3 {
   font-weight: 750;
   line-height: 3;
   margin-bottom: 20px;
-  padding: 20px;
+  padding: 30px;
 }
+
 img {
-  width: 400px;
-  height: 300px;
-}
+  width:  250px;
+  height: 250px;
 }
 p {
   margin: 15px 0;
@@ -81,11 +87,11 @@ h4 {
   font-size: 34px;
   font-weight: 750;
   line-height: 3;
-  padding: 20px;
+  padding: 30px;
 }
 img{
-  width: 400px;
-  height: 300px;
+width:  300px;
+height: 400px;
 }
 p {
   margin: 15px 0;
@@ -93,8 +99,9 @@ p {
 h2 {
   font-size: 30px;
   font-weight: 750;
+  text-align: left;
   line-height: 3;
-  padding: 20px;
+  padding: 30px;
 }
 ul{
   margin: 15px 0;
