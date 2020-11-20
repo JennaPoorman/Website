@@ -38,7 +38,7 @@
   background-image: url(Images/banner.jpg);
   } */
   p {
-  margin: 15px 0;
+  margin: 100px 0;
   padding: 30px;
   }
   header h1 {
@@ -49,12 +49,14 @@
   font-size: 34px;
   font-weight: 750;
   font-style: italic;
-  line-height: 3;
+  line-height: 2;
   text-align: left;
   margin-bottom: 20px;
+  width:300px
   padding:25px;
   }
   p {
+    font size:34px;
   margin: 15px 0;
   padding: 25px;
   }
